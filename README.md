@@ -1,2 +1,1 @@
-# hello_world
-just another repository
+Hi this is surmai.this is my first repository
